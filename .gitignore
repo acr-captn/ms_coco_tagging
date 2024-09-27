@@ -1,0 +1,51 @@
+# Compiled source
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+*.log.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.whl
+env/
+.venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Java
+*.jar
+*.war
+*.ear
+target/
+
+# IDE/Editor specific
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment variables
+.env
+.env.local
+
+# exclude data files
+data/
